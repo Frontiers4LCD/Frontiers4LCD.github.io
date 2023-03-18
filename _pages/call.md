@@ -2,7 +2,7 @@
 layout: page
 permalink: /submissions/
 title: Call for Papers
-description: We invite researcher in machine learning, control and dynamical systems to submit their latest work to our ICML 2023 workshop.
+description: We invite researcher in machine learning, control and dynamical systems to submit their latest work to our ICML 2023 workshop. Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
 nav: true
 nav_order: 3
 ---
@@ -11,7 +11,7 @@ nav_order: 3
 
 ## Topics
 
-The invite submission related (but not limited) to the following topics:
+We invite submissions related (but not limited) to the following topics:
 
 *   Optimal Transport
 *   Stochastic Processes
@@ -28,14 +28,15 @@ The invite submission related (but not limited) to the following topics:
 
 ## Submission Details
 
-We encourage researchers to submit their latest work on the intersection of learning method, control and dynamical system.
+To ensure your submission is considered, please adhere to the following guidelines:
 
-*   **Formatting Instructions**: The submitted paper sould take the form of `TBD`. The maximum size of submission is 50MB. The submission is allowed to attach a supplement/appendix but the reviewers do not have responsibility for reviewing supplementary material.
-*   **Reviews**: The review process will be double-blind. All submission must be anonymized and the leakage of **any** identification information is prohibited.
-*   **Dual Submission Policy**: If the submission was accepted in prior conference, journal, workshop (including ICML2023), it should be extended in order to get accepted in our workshop. Paper which is under reviewing are welcome to be submitted to our workshop.
+*   **Formatting Instructions**: The submitted paper should follow the guidelines outlined on the submission website. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
+*   **Reviews**: The review process will be double-blind. All submissions must be anonymized and the leakage of any identification information is prohibited.
+*   **Dual Submission Policy**: If the submission was accepted at prior conferences, journal, or workshops (including ICML 2023), it should be extended to be considered for acceptance at our workshop. Papers that are currently under review are welcome to be submitted to our workshop.
 
-The submission process is carried on **[OpenReview](https://openreview.net/)**. The accepted paper list will be posted on workshop website.
+To submit your work, please visit the **[OpenReview submission website](https://openreview.net/)**. The list of accepted papers will be posted on the workshop website.
+
 
 ## Questions
 
-Contact us at [frontiers4lcd@gmail.com](mailto:Frontiers4LCD@gmail.com).
+If you have any questions, please do not hesitate to contact us at [frontiers4lcd@gmail.com](mailto:Frontiers4LCD@gmail.com).
