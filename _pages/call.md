@@ -17,7 +17,7 @@ We invite submissions related (but not limited) to the following topics:
 *   Stochastic Processes
 *   Stochastic Optimal Control
 *   Dynamical Probabilistic inference e.g., MCMC, Variational Inference
-*   Diffusion Modes
+*   Diffusion Models
 *   Neural ODEs, SDEs, or PDEs
 
 ## Important Dates
