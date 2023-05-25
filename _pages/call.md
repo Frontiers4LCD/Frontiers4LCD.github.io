@@ -23,7 +23,7 @@ We invite submissions related (but not limited) to the following topics:
 
 ## Important Dates
 
-*   Submission Deadline: `May 29, 2023`
+*   Submission Deadline: `May 29, 2023 at 23:59 AoE`
 *   Acceptance Notification: `June 19, 2023`
 *   Camera-Ready Deadline for Accepted Submissions: `TBD`
 
