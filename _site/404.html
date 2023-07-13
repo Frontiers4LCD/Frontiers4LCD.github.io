@@ -101,7 +101,7 @@
 
     <!-- Footer -->    <footer class="sticky-bottom mt-5">
       <div class="container">
-        © Copyright 2023 New Frontiers in  Learning, Control, and Dynamical Systems. Last updated: March 26, 2023.
+        © Copyright 2023 New Frontiers in  Learning, Control, and Dynamical Systems. Last updated: July 13, 2023.
       </div>
     </footer>
 
@@ -122,6 +122,23 @@
   <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
   <script defer src="/assets/js/zoom.js"></script><!-- Load Common JS -->
   <script defer src="/assets/js/common.js"></script>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+    $('tr:not(.header)').hide();
+
+    $('tr.header').click(function() {
+      $(this).find('span').text(function(_, value) {
+        return value == '-' ? '+' : '-'
+      });
+
+      $(this).nextUntil('tr.header').slideToggle(1, function() {});
+    });
+    });
+  </script>
+
+
+
 
     <!-- MathJax -->
   <script type="text/javascript">

@@ -110,7 +110,7 @@
 <h2 id="important-dates">Important Dates</h2>
 
 <ul>
-  <li>Submission Deadline: <code class="language-plaintext highlighter-rouge">May 29, 2023</code>
+  <li>Submission Deadline: <code class="language-plaintext highlighter-rouge">May 29, 2023 at 23:59 AoE</code>
 </li>
   <li>Acceptance Notification: <code class="language-plaintext highlighter-rouge">June 19, 2023</code>
 </li>
@@ -124,11 +124,9 @@
 
 <ul>
   <li>
-<strong>Formatting Instructions</strong>: Use the following <strong><a href="/assets/files/icml2023_frontiers4lcd.zip">style files</a></strong> when preparing your submission. Papers need to be prepared and submitted as a single file: <strong>8 pages</strong> as main paper, with unlimited pages for references and appendix. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.</li>
+<strong>Formatting Instructions</strong>: Use the following <strong><a href="/assets/files/icml2023_frontiers4lcd.zip">style files</a></strong> when preparing your submission. Use the following style files when preparing your submission. Papers need to be prepared and submitted as a single file: We accept <em>long (8 pages)</em> and <em>short (4 pages)</em>, with unlimited pages for references and appendix in both cases. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.</li>
   <li>
 <strong>Reviews</strong>: The review process will be double-blind. All <strong>submissions must be anonymized</strong> and the leakage of any identification information is prohibited.</li>
-  <li>
-<strong>Dual Submission Policy</strong>: If the submission was accepted at prior conferences, journal, or workshops (including ICML 2023), it should be extended to be considered for acceptance at our workshop. Papers that are currently under review are welcome to be submitted to our workshop.</li>
 </ul>
 
 <p>To submit your work, please visit the <strong><a href="https://openreview.net/group?id=ICML.cc/2023/Workshop/Frontiers4LCD" target="_blank" rel="noopener noreferrer">OpenReview submission website</a></strong>. The list of accepted papers will be posted on the workshop website.</p>
@@ -145,7 +143,7 @@
 
     <!-- Footer -->    <footer class="sticky-bottom mt-5">
       <div class="container">
-        © Copyright 2023 New Frontiers in  Learning, Control, and Dynamical Systems. Last updated: March 26, 2023.
+        © Copyright 2023 New Frontiers in  Learning, Control, and Dynamical Systems. Last updated: July 13, 2023.
       </div>
     </footer>
 
@@ -166,6 +164,23 @@
   <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
   <script defer src="/assets/js/zoom.js"></script><!-- Load Common JS -->
   <script defer src="/assets/js/common.js"></script>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+    $('tr:not(.header)').hide();
+
+    $('tr.header').click(function() {
+      $(this).find('span').text(function(_, value) {
+        return value == '-' ? '+' : '-'
+      });
+
+      $(this).nextUntil('tr.header').slideToggle(1, function() {});
+    });
+    });
+  </script>
+
+
+
 
     <!-- MathJax -->
   <script type="text/javascript">
