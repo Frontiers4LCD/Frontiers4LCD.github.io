@@ -93,7 +93,7 @@ nav_order: 2
     <td>
       Daniela Rus <i>(MIT)</i> <br>
       Arnaud Doucet <i>(University of Oxford &amp; DeepMind)</i> <br>
-      Evangelos Thedorou <i>(Georgia Tech &amp; Amazon)</i> <br>
+      Evangelos Theodorou <i>(Georgia Tech &amp; Amazon)</i> <br>
       Jeannette Bohg <i>(Stanford)</i> <br>
       Sarah Dean <i>(Cornell)</i> <br>
     </td>
