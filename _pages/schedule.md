@@ -94,18 +94,23 @@ nav_order: 2
       Daniela Rus <i>(MIT)</i> <br>
       Arnaud Doucet <i>(University of Oxford &amp; DeepMind)</i> <br>
       Evangelos Theodorou <i>(Georgia Tech &amp; Amazon)</i> <br>
-      Jeannette Bohg <i>(Stanford)</i> <br>
       Sarah Dean <i>(Cornell)</i> <br>
     </td>
   </tr>
 
-  <tr class="header">
+  <tr class="header" style="cursor: pointer">
     <td>13:45 - 14:30</td>
     <td>Invited Talk</td>
-    <td><b></b>
-      <!-- <br> -->
-      Claire Tomlin <i>(UC Berkeley)</i></td>
+    <td><b>Safe Learning in Control</b><br>Claire Tomlin <i>UC Berkeley</i></td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>
+      In many applications of autonomy in robotics, guarantees that constraints are satisfied throughout the learning process are paramount. We present a controller synthesis technique based on the computation of reachable sets, using optimal control and game theory.  Then, we present methods for combining reachability with learning-based methods, to enable performance improvement while maintaining safety, and to move towards safe robot control with learned models of the dynamics and the environment.  We will discuss different interaction models with other agents.  Finally, we will illustrate these safe learning methods on robotic platforms at Berkeley, discussing applications in automated airspace management and air taxi operations.
+    </td>
+  </tr>
+
 
   <tr class="header">
     <td>14:30 - 14:45</td>
