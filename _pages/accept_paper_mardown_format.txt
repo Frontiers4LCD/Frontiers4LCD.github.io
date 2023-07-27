@@ -1,0 +1,102 @@
+|num|title                        |
+|---|-----------------------------|
+|1  |AbODE: Ab initio antibody design using conjoined ODEs|
+|2  |Distributional Distance Classifiers for Goal-Conditioned Reinforcement Learning|
+|3  |LEAD: Min-Max Optimization from a Physical Perspective|
+|4  |Balancing exploration and exploitation in Partially Observed Linear Contextual Bandits via Thompson Sampling|
+|5  |Stochastic Linear Bandits with Unknown Safety Constraints and Local Feedback|
+|6  |Visual Dexterity: In-hand Dexterous Manipulation from Depth|
+|7  |Regret Bounds for Risk-sensitive Reinforcement Learning with Lipschitz Dynamic Risk Measures|
+|8  |On learning history-based policies for controlling Markov decision processes|
+|9  |Improved sampling via learned diffusions|
+|10 |Fast Approximation of the Generalized Sliced-Wasserstein Distance|
+|11 |Synthetic Experience Replay  |
+|12 |A neural RDE approach for continuous-time non-Markovian stochastic control problems|
+|13 |Importance Weighted Actor-Critic for Optimal Conservative Offline Reinforcement Learning|
+|14 |Toward Understanding Latent Model Learning in MuZero: A Case Study in Linear Quadratic Gaussian Control|
+|15 |Gradient-free training of neural ODEs for system identification and control using ensemble Kalman inversion|
+|16 |Preventing Reward Hacking with Occupancy Measure Regularization|
+|17 |Exponential weight averaging as damped harmonic motion|
+|18 |Bridging RL Theory and Practice with the Effective Horizon|
+|19 |Accelerated Policy Gradient: On the Nesterov Momentum for Reinforcement Learning|
+|20 |Neural Optimal Transport with Lagrangian Costs|
+|21 |Taylor TD-learning           |
+|22 |Coupled Gradient Flows for Strategic Non-Local Distribution Shift|
+|23 |Kernel Mirror Prox and RKHS Gradient Flow for Mixed Functional Nash Equilibrium|
+|24 |What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?|
+|25 |On the Generalization Capacities of Neural Controlled Differential Equations|
+|26 |A Best Arm Identification Approach for Stochastic Rising Bandits|
+|27 |Maximum State Entropy Exploration using Predecessor and Successor Representations|
+|28 |Guide Your Agent with Adaptive Multimodal Rewards|
+|29 |Breaking the Curse of Multiagents in a Large State Space: RL  in Markov Games with Independent  Linear Function Approximation|
+|30 |Unbalanced Optimal Transport meets Sliced-Wasserstein|
+|31 |Randomly Coupled Oscillators for Time Series Processing|
+|32 |Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware|
+|33 |Boosting Off-policy RL with Policy Representation and Policy-extended Value Function Approximator|
+|34 |Statistics estimation in neural network training: a recursive identification approach|
+|35 |Embedding Surfaces by Optimizing Neural Networks with Prescribed Riemannian Metric and Beyond|
+|36 |Delphic Offline Reinforcement Learning under Nonidentifiable Hidden Confounding|
+|37 |A Flexible Diffusion Model   |
+|38 |Simulation-Free Schrödinger Bridges via Score and Flow Matching|
+|39 |On the Imitation of Non-Markovian  Demonstrations: From Low-Level Stability to High-Level Planning|
+|40 |Fixed-Budget Hypothesis Best Arm Identification: On the Information Loss in Experimental Design|
+|41 |Variational Principle and Variational Integrators for Neural Symplectic Forms|
+|42 |A Policy-Decoupled Method for High-Quality Data Augmentation in Offline Reinforcement Learning|
+|43 |When is Agnostic Reinforcement Learning Statistically Tractable?|
+|44 |Algorithms for Optimal Adaptation ofDiffusion Models to Reward Functions|
+|45 |On Convergence of Approximate Schr\"{o}dinger Bridge with Bounded Cost|
+|46 |In-Context Decision-Making from Supervised Pretraining|
+|47 |Unbalanced Diffusion Schrödinger Bridge|
+|48 |Learning from Sparse Offline Datasets via Conservative Density Estimation|
+|49 |Parameterized projected Bellman operator|
+|50 |Randomized methods for computing optimal transport without regularization and their convergence analysis|
+|51 |Bridging Physics-Informed Neural Networks with Reinforcement Learning: Hamilton-Jacobi-Bellman Proximal Policy Optimization (HJBPPO)|
+|52 |On a Connection between Differential Games, Optimal Control, and Energy-based Models for Multi-Agent Interactions|
+|53 |Dynamic Feature-based Newsvendor|
+|54 |Game Theoretic Neural ODE Optimizer|
+|55 |Diffusion Model-Augmented Behavioral Cloning|
+|56 |Vector Quantile Regression on Manifolds|
+|57 |PAC-Bayesian Bounds for Learning LTI-ss systems with Input from Empirical Loss|
+|58 |Learning to Optimize with Recurrent Hierarchical Transformers|
+|59 |Sample Complexity of Hierarchical Decompositions in Markov Decision Processes|
+|60 |Fairness In a Non-Stationary Environment From an Optimal Control Perspective|
+|61 |Modular Hierarchical Reinforcement Learning for Robotics: Improving Scalability and Generalizability|
+|62 |Taylorformer: Probabalistic Modelling for Random Processes including Time Series|
+|63 |Stability of Multi-Agent Learning: Convergence in Network Games with Many Players|
+|64 |Improving and Generalizing Flow-Based Generative Models with Minibatch Optimal Transport|
+|65 |Deep Equilibrium Based Neural Operators for Steady-State PDEs|
+|66 |Informed POMDP: Leveraging Additional Information in Model-Based RL|
+|67 |IQL-TD-MPC: Implicit Q-Learning for Hierarchical Model Predictive Control|
+|68 |Modeling Accurate Long Rollouts with Temporal Neural PDE Solvers|
+|69 |Sub-linear Regret in Adaptive Model Predictive Control|
+|70 |Analyzing the Sample Complexity of Model-Free Opponent Shaping|
+|71 |Continuous Vector Quantile Regression|
+|72 |Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models|
+|73 |Structured State Space Models for In-Context Reinforcement Learning|
+|74 |Latent Space Editing in Transformer-Based Flow Matching|
+|75 |Transport, VI, and Diffusions|
+|76 |Fit Like You Sample: Sample-Efficient Generalized Score Matching from Fast Mixing Markov Chains|
+|77 |Policy Gradient Algorithms Implicitly Optimize by Continuation|
+|78 |Improving Offline-to-Online Reinforcement Learning with Q-Ensembles|
+|79 |Offline Goal-Conditioned RL with Latent States as Actions|
+|80 |On the effectiveness of neural priors in modeling dynamical systems|
+|81 |Action and Trajectory Planning for Urban Autonomous Driving with Hierarchical Reinforcement Learning|
+|82 |Physics-informed Localized Learning for Advection-Diffusion-Reaction Systems|
+|83 |Factor Learning Portfolio Optimization Informed by Continuous-Time Finance Models|
+|84 |Equivalence Class Learning for GENERIC Systems|
+|85 |Model-based Policy Optimization under Approximate Bayesian Inference|
+|86 |Nonlinear Wasserstein Distributionally Robust Optimal Control|
+|87 |Online Control with Adversarial Disturbance for Continuous-time Linear Systems|
+|88 |Leveraging Factored Action Spaces for Off-Policy Evaluation|
+|89 |Efficient RL with Impaired Observability: Learning to Act with Delayed and Missing State Observations|
+|90 |Limited Information Opponent Modeling|
+|91 |Tendiffpure: Tensorizing Diffusion Models for Purification|
+|92 |Look Beneath the Surface: Exploiting Fundamental Symmetry for Sample-Efficient Offline RL|
+|93 |Optimization or Architecture: What Matters in Non-Linear Filtering?|
+|94 |Variational quantum dynamics of two-dimensional rotor models|
+|95 |Parallel Sampling of Diffusion Models|
+|96 |Actor-Critic Methods using Physics-Informed Neural Networks: Control of a 1D PDE Model for Fluid-Cooled Battery Packs|
+|97 |Undo Maps: A Tool for Adapting Policies to Perceptual Distortions|
+|98 |Learning with Learning Awareness using Meta-Values|
+|99 |Aligned Diffusion Schrödinger Bridges|
+|100|On First-Order Meta-Reinforcement Learning with Moreau Envelopes|

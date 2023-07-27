@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at ICML 2023 at the Hawaii Convention Center on July 28th 2023. The session will cover a tutorial, invited talks, contributed talks, posters, and a panel discussion. The schedule in Hawaii Standard Time (GMT-10) can be found below. <b>(Click the talks to see their abstracts)</b>
+description: This workshop will be held in-person at ICML 2023 at the Hawaii Convention Center on July 28th 2023. The session will cover a tutorial, invited talks, contributed talks and posters. The schedule in Hawaii Standard Time (GMT-10) can be found below. <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 2
 ---
@@ -82,21 +82,12 @@ nav_order: 2
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>12:15 - 13:15</td>
+        <td>12:15 - 13:45</td>
         <td></td>
         <td>Poster Session &amp; Lunch</td>
   </tr>
 
-  <tr class="header">
-    <td>13:15 - 13:45</td>
-    <td>Panel Session</td>
-    <td>
-      Daniela Rus <i>(MIT)</i> <br>
-      Arnaud Doucet <i>(University of Oxford &amp; DeepMind)</i> <br>
-      Evangelos Theodorou <i>(Georgia Tech &amp; Amazon)</i> <br>
-      Sarah Dean <i>(Cornell)</i> <br>
-    </td>
-  </tr>
+
 
   <tr class="header" style="cursor: pointer">
     <td>13:45 - 14:30</td>
